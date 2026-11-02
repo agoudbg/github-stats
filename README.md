@@ -84,8 +84,9 @@ Before running the workflow after migrating an existing copy:
 
 - Keep the existing `ACCESS_TOKEN` secret. The old `GITHUB_TOKEN` workflow
   variable is no longer used by the statistics generator.
-- Rename `EXCLUDED` to `EXCLUDE_REPOS`.
-- Rename `EXCLUDED_LANGS` to `EXCLUDE_LANGS`.
+- The workflow reads `EXCLUDE_REPOS` and `EXCLUDE_LANGS`. If those new secrets
+  are absent, it falls back to the existing `EXCLUDED` and `EXCLUDED_LANGS`
+  secrets, so their values do not need to be exposed or copied manually.
 - The old `EXCLUDE_FORKED_REPOS` setting is not read by the new workflow.
   Review `EXCLUDE_PRIVATE` and `EXCLUDE_REPOS` if you relied on that setting.
 - Run `Generate Stats Images` manually once. The workflow will create the
