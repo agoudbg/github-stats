@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #083fa1;
-  width: 54.722%;
+  width: 54.676%;
 " class="progress-item"></span><span style="
   background-color: #3178c6;
-  width: 13.346%;
+  width: 13.395%;
 " class="progress-item"></span><span style="
   background-color: #3572A5;
-  width: 11.415%;
+  width: 11.409%;
 " class="progress-item"></span><span style="
   background-color: #fcb32c;
-  width: 11.149%;
+  width: 11.142%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8;
-  width: 4.718%;
+  width: 4.728%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a;
-  width: 1.086%;
+  width: 1.090%;
 " class="progress-item"></span><span style="
   background-color: #41b883;
   width: 0.766%;
@@ -161,10 +161,10 @@ div.ellipsis {
   width: 0.551%;
 " class="progress-item"></span><span style="
   background-color: #e34c26;
-  width: 0.434%;
+  width: 0.433%;
 " class="progress-item"></span><span style="
   background-color: #ff5a03;
-  width: 0.423%;
+  width: 0.422%;
 " class="progress-item"></span><span style="
   background-color: #f7931e;
   width: 0.386%;
@@ -251,7 +251,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Markdown</span>
-  <span class="percent">54.72%</span>
+  <span class="percent">54.68%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg
@@ -267,7 +267,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">13.35%</span>
+  <span class="percent">13.39%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg
@@ -299,7 +299,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">MDX</span>
-  <span class="percent">11.15%</span>
+  <span class="percent">11.14%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg
@@ -315,7 +315,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go</span>
-  <span class="percent">4.72%</span>
+  <span class="percent">4.73%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg
